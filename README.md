@@ -9,8 +9,6 @@
 
 I’m an End-to-End Data Science Professional with expertise in AI/ML pipeline development, data engineering, and analytics solutions. My background spans predictive analytics, master data management, time series data, anomaly detection, generative models, and large language model (LLM) applications. I have experience building scalable AI/ML analytics solutions specifically for the CPG and Retail industries.
 
----
-
 ## 💻 Projects
 
 - **[Energy Consumption Anomaly Detection](https://github.com/rahulps33/Energy-Consumption-Anomaly-Detection-Case-Study)**  
@@ -21,8 +19,6 @@ I’m an End-to-End Data Science Professional with expertise in AI/ML pipeline d
 
 - **LLM Engineering Projects (Coming Soon)**  
   Building LLM pipelines, Agents, and RAG solutions as part of the "LLM Engineering: Master AI, Large Language Models & Agents" course
-
----
 
 ## 🌱 Currently Learning
 
