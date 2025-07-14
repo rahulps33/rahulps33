@@ -3,8 +3,6 @@
 🎓 **MSc in Data Science** – TU Dortmund University  
 📍 Based in Germany | Open to Data Engineering, AI & ML roles
 
----
-
 ## 🚀 About Me
 
 I’m an End-to-End Data Science Professional with expertise in AI/ML pipeline development, data engineering, and analytics solutions. My background spans predictive analytics, master data management, time series data, anomaly detection, generative models, and large language model (LLM) applications. I have experience building scalable AI/ML analytics solutions specifically for the CPG and Retail industries.
@@ -25,8 +23,6 @@ I’m an End-to-End Data Science Professional with expertise in AI/ML pipeline d
 - **LLM Agents & RAG Pipelines**  
 - **Vector Databases & Prompt Engineering**  
 - **Cloud-based AI Deployment**
-
----
 
 ## 📫 Connect
 
