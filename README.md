@@ -26,6 +26,6 @@ I’m an End-to-End Data Science Professional with expertise in AI/ML pipeline d
 
 ## 📫 Connect
 
-- **LinkedIn**: [rahulpoovassery](https://www.linkedin.com/in/rahulpoovassery) 
+- **LinkedIn**: [rahul-poovassery](https://www.linkedin.com/in/rahul-poovassery) 
 
 ---
