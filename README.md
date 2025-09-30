@@ -15,6 +15,9 @@ I’m an End-to-End Data Science Professional with expertise in AI/ML pipeline d
 - **[ML Verification Tool](https://github.com/rahulps33/ml-vRtool)**  
   *Master's Thesis*: Formal verification of ML models using SMT solvers and Marabou
 
+- **[SaaS Growth Analytics - Case Study](https://github.com/rahulps33/SaaS-Growth-Analytics-Case-Study)**  
+  SaaS analytics: from raw events to actionable growth metrics.
+  
 - **LLM Engineering Projects (Coming Soon)**  
   Building LLM pipelines, Agents, and RAG solutions as part of the "LLM Engineering: Master AI, Large Language Models & Agents" course
 
